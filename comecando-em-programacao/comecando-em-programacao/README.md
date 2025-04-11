@@ -8,5 +8,3 @@ Curso introdutório da Alura focado em:
 ## Certificado
 O certificado deste curso está incluído neste diretório como `certificado.pdf`.
 
-## Projetos
-Caso existam exercícios ou códigos feitos durante o curso, eles estarão na pasta `projetos/`.
