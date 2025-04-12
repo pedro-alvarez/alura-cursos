@@ -16,7 +16,7 @@ Este curso aprofunda os conceitos de lógica de programação utilizando JavaScr
 ## 📚 Conteúdo Abordado
 
 - Criação e utilização de funções em JavaScript
-- Manipulação de elementos HTML através do DOM
+- Manipulação de elementos HTML através
 - Implementação de listas (arrays) e suas operações básicas
 
 
