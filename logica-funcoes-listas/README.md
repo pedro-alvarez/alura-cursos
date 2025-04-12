@@ -3,7 +3,7 @@
 📘 **Curso:** Lógica de Programação: Explore Funções e Listas 
 🎓 **Plataforma:** Alura  
 ⏱️ **Duração:** 6 horas  
-📄 **Status:** Em andamento 
+📄 **Status:** Concluído
 
 ---
 
